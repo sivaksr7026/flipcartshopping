@@ -1,0 +1,44 @@
+.footersection {
+  background-color: #172337;
+  color: #ffffff;
+  padding: 40px 60px;
+  font-family: Arial, sans-serif;
+  margin: 15px 0px;
+}
+
+.footer-top {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 30px;
+  border-bottom: 1px solid #454d5e;
+  padding-bottom: 40px;
+}
+
+.footer-col h4 {
+  font-size: 15px;
+  font-weight: 600;
+  color: #878787;
+  margin-bottom: 12px;
+}
+
+.footer-col p {
+  font-size: 15px;
+  color: #ffffff;
+  margin: 6px 0;
+  cursor: pointer;
+}
+
+.footer-col p:hover {
+  text-decoration: underline;
+}
+
+.footer-col.address p {
+  cursor: default;
+  line-height: 1.6;
+}
+
+.footer-col.address p:hover {
+  text-decoration: none;
+}
+
+
