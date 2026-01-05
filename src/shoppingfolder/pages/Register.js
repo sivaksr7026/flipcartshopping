@@ -89,7 +89,6 @@ const Register = () => {
           required
           onChange={(e) => setPhone(e.target.value)}
         />
-        
 
         <button type="submit">Register</button>
 
