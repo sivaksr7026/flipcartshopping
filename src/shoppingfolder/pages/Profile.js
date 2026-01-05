@@ -39,6 +39,7 @@ const Profile = () => {
     }
   };
 
+
   const fechprofile = async () => {
     try {
       const res = await axios.get(
