@@ -87,6 +87,7 @@ const Profile = () => {
   };
    if (!loggedUser) return <h2>No user logged in</h2>;
 
+   
 
   return (
     <div className="">
