@@ -28,7 +28,6 @@ const Header = () => {
         <p onClick={gotologin}>Login</p>
         <p >Profile</p>
         <p>Cart</p>
-        <p>Become a Seller</p>
         <img 
           src="https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/header_3verticalDots-ea7819.svg" 
           alt="image" 
